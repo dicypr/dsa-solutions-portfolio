@@ -6,7 +6,7 @@
 ---
 
 ## 📝 Personal Notes
-great
+great it was 
 
 ---
 *Saved via AlgoCraft DSA Studio*
