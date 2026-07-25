@@ -3,5 +3,5 @@
 
 class Solution:
     def twoSum(self, nums, target):
-        print hellow world bbb 
+        print hellow world bbbNNNNN 
         return []
