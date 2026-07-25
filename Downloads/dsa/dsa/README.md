@@ -3,7 +3,7 @@
 > Powered by **AlgoCraft DSA Studio** (Sketch'N'Ship Hackathon 2026)
 
 ## 📊 Overall Progress
-- **Total Solved**: 2 / 400
+- **Total Solved**: 3 / 400
 - **Completion**: 1%
 - **Streak**: 🔥 1 Days
 
